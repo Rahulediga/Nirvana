@@ -53,7 +53,7 @@ export default function Hero({ onOpenInquiry, onScrollToSection }: HeroProps) {
         className="absolute inset-0 w-full h-full pointer-events-none"
       >
         <video
-          src="/videos/Heroic page video.mp4"
+          src="/videos/Heroic Page Video.mp4"
           autoPlay
           loop
           muted
